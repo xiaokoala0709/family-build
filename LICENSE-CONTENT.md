@@ -5,8 +5,8 @@
 | 范围 | 协议 |
 |---|---|
 | 网页代码（HTML 结构、CSS 样式、JavaScript） | [MIT](./LICENSE) |
-| 内容：文案、课程框架、海报图片（`assets/` 下的 `.webp` 文件） | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) |
-| 品牌：Family Build 名称与 Logo（`assets/logo.jpg`） | 保留所有权利 |
+| 内容：文案、课程框架、海报图片（`.webp` 海报文件） | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) |
+| 品牌：Family Build 名称与 Logo（`logo.jpg`） | 保留所有权利 |
 
 ## 内容（CC BY-NC 4.0）
 

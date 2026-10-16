@@ -12,7 +12,7 @@
 
 ```
 index.html   页面（含样式与脚本）
-assets/      Logo 与海报图片
+*.jpg / *.webp  Logo 与海报图片
 ```
 
 ## 在线访问
